@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/snoweffect-react/static/css/main.419c5ccd.css",
-    "main.js": "/snoweffect-react/static/js/main.883161ca.js",
+    "main.css": "/snoweffect-react/static/css/main.81cfb82c.css",
+    "main.js": "/snoweffect-react/static/js/main.9eebd352.js",
     "static/js/787.dbaa18eb.chunk.js": "/snoweffect-react/static/js/787.dbaa18eb.chunk.js",
     "static/media/peakpx.jpg": "/snoweffect-react/static/media/peakpx.29779c5def2771b920b2.jpg",
     "static/media/slick.svg": "/snoweffect-react/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -9,12 +9,12 @@
     "static/media/slick.ttf": "/snoweffect-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/snoweffect-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/snoweffect-react/index.html",
-    "main.419c5ccd.css.map": "/snoweffect-react/static/css/main.419c5ccd.css.map",
-    "main.883161ca.js.map": "/snoweffect-react/static/js/main.883161ca.js.map",
+    "main.81cfb82c.css.map": "/snoweffect-react/static/css/main.81cfb82c.css.map",
+    "main.9eebd352.js.map": "/snoweffect-react/static/js/main.9eebd352.js.map",
     "787.dbaa18eb.chunk.js.map": "/snoweffect-react/static/js/787.dbaa18eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.419c5ccd.css",
-    "static/js/main.883161ca.js"
+    "static/css/main.81cfb82c.css",
+    "static/js/main.9eebd352.js"
   ]
 }
