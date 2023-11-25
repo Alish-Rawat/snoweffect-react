@@ -9,7 +9,7 @@ const Head = () => {
       <ul className="absolute space-x-36 flex right-0 p-10">
         <Link to="/about"></Link>
         <li className="z-50">
-          <a href="/"> Home </a>
+          <a href="/snoweffect-react"> Home </a>
         </li>
         <li className="z-50">
           <Link to="https://www.facebook.com/login/">About</Link>

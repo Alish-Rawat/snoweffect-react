@@ -20,7 +20,7 @@ const AppLayout = () => {
 
 const appRouter = createBrowserRouter([
   {
-    path: "/",
+    path: "/snoweffect-react",
     element: <AppLayout />,
   },
 
