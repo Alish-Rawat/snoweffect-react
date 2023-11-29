@@ -58,7 +58,7 @@ export const SimpleSlider = () => {
             <p className="m-4 border border-s-blue-gray-200 p-2">
               There are many variations of passages of Lorem Ipsum available,
               but the majority have suffered alteration in some form, by
-              injected humour, or randomised words which don't look even
+              injected humour, or dsdrandomised words which don't look even
               slightly believable. injected humour, randomised which don't look
               even slightly believable.
             </p>
