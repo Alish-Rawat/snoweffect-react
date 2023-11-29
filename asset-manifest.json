@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/snoweffect-react/static/css/main.81cfb82c.css",
-    "main.js": "/snoweffect-react/static/js/main.9eebd352.js",
+    "main.js": "/snoweffect-react/static/js/main.444aeb12.js",
     "static/js/787.dbaa18eb.chunk.js": "/snoweffect-react/static/js/787.dbaa18eb.chunk.js",
     "static/media/peakpx.jpg": "/snoweffect-react/static/media/peakpx.29779c5def2771b920b2.jpg",
     "static/media/slick.svg": "/snoweffect-react/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/snoweffect-react/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/snoweffect-react/index.html",
     "main.81cfb82c.css.map": "/snoweffect-react/static/css/main.81cfb82c.css.map",
-    "main.9eebd352.js.map": "/snoweffect-react/static/js/main.9eebd352.js.map",
+    "main.444aeb12.js.map": "/snoweffect-react/static/js/main.444aeb12.js.map",
     "787.dbaa18eb.chunk.js.map": "/snoweffect-react/static/js/787.dbaa18eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81cfb82c.css",
-    "static/js/main.9eebd352.js"
+    "static/js/main.444aeb12.js"
   ]
 }
